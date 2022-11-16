@@ -2,7 +2,7 @@
 Some efficient Rscript and shfile to run rrBLUP GWAS in VT arc.
 
 ### Step1: preprocess
-[Preprocess.RMD](https://github.com/yebigithub/Running-rrBLUP-GWAS/blob/main/Preprocess.Rmd) 
+[Preprocess.Rmd](https://github.com/yebigithub/Running-rrBLUP-GWAS/blob/main/Preprocess.Rmd) 
 - Preprocess phenotype and genotype data files.
 - Remove duplicated id.
 - Match order of id in geno and pheno data.
