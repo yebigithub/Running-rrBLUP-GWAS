@@ -8,7 +8,7 @@ Some efficient Rscript and shfile to run rrBLUP GWAS in VT arc.
 - Match order of id in geno and pheno data.
 
 ### Step2: build gwas function
-[gwas_function.R](https://github.com/yebigithub/Running-rrBLUP-GWAS/blob/main/gwas_function.R)
+[Gwas_CoreFunction.R](https://github.com/yebigithub/Running-rrBLUP-GWAS/blob/main/Gwas_CoreFunction.R)
 - Be careful, rrBLUP requires pheno and geno in data.frame format.
 
 ### Step3: using function in control and stress group
